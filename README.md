@@ -175,14 +175,7 @@ Implementing **Extract, Transform, Load** operations to move and organize data w
 
 ---
 
-## 📬 Contact & Freelance Profiles
 
-| Platform | Link |
-|----------|------|
-| 🟢 Khamsat | [khamsat.com](https://khamsat.com) |
-| 🔵 Mostaql | [mostaql.com](https://mostaql.com) |
-| 🟠 Freelancer | [freelancer.com](https://freelancer.com) |
-| 💼 GitHub | [@ARAFA-WEB1](https://github.com/ARAFA-WEB1) |
 
 ---
 
@@ -190,6 +183,6 @@ Implementing **Extract, Transform, Load** operations to move and organize data w
 
 **⭐ If this work helped you, please star the repository!**
 
-Made with ❤️ by **Mohamed Negm** — Database & Data Engineering Specialist
+Made with ❤️ by **Mohamed Arafa** — Database & Data Engineering Specialist
 
 </div>
